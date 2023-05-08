@@ -1,0 +1,29 @@
+.titluWoz {
+  color: rgb(0, 0, 0);
+  /*size 69%;*/
+  /*ransform: rotate(90deg);*/
+  background-color: rgb(16, 159, 216);
+  border-radius: 25px;
+  width: 50%;
+  padding: 10px;
+  box-shadow: 0 4px 8px 0 rgb(0 0 0);
+  font-size: 25px;
+ margin: auto;
+ text-align: center;
+ position: relative;
+ bottom: -10px;
+ font-style: bold;
+}
+ .main{
+  font-style: italic;
+  margin: auto;
+  text-align: center;
+  padding-top: 3%;
+ }
+  
+
+body {
+  
+  background-image: url("https://media.istockphoto.com/id/1397479514/photo/pastel-blue-and-white-concrete-stone-texture-for-background-in-summer-wallpaper-cement-and.jpg?b=1&s=170667a&w=0&k=20&c=Dfh8igFQeUP-K8OAt6Ky-QS11UB3m4iTA43qy-mJsKQ=");
+}
+
